@@ -78,5 +78,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:git
-  repo:https://github.com/aiage/aiage.github.io.git
+  type: git
+  repo: https://github.com/aiage/aiage.github.io.git
+  branch: master
